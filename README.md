@@ -10,7 +10,7 @@
 
 <br/>
 
-Curioso por tecnologia há um bom tempo, comecei mais focado em front-end com React e Tailwind e hoje tô caminhando pro fullstack, me virando bem entre JavaScript, PHP e C. Gosto de entender como as coisas funcionam por baixo do capô e de resolver problema com código simples, sem enrolação.
+Curioso por tecnologia há um bom tempo, comecei mais focado em front-end com React e Tailwind e hoje tô caminhando pro fullstack, também me virando bem entre PHP e C. Gosto de entender como as coisas funcionam por baixo do capô e de resolver problema com código simples, sem enrolação.
 
 Se quiser trocar uma ideia sobre algum projeto ou sugestão de melhoria, os contatos estão logo abaixo.
 

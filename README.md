@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1f6feb,100:8957e5&height=240&section=header&text=Eduardo%20Sousa&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Front-end%20%E2%86%92%20Full-stack%20developer&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Eduardo Sousa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=230&section=header&text=Eduardo%20Sousa&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Front-end%20developer%20growing%20into%20full-stack&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Eduardo Sousa" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=620&height=40&lines=I+build+fast%2C+clean+interfaces;React+%C2%B7+Tailwind+%C2%B7+PHP+%C2%B7+C;Learning%20how%20things%20work%20under%20the%20hood;Simple+code.+No+overengineering." alt="Typing SVG" />
@@ -8,9 +8,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=oeduardosousa&label=Profile%20views&color=1f6feb&style=flat-square" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/oeduardosousa?label=Followers&style=flat-square&color=8957e5&logo=github" alt="Followers" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-2ea043?style=flat-square" alt="Open to opportunities" />
 
 </div>
 
@@ -25,10 +23,9 @@ I like understanding how things work under the hood and solving problems with **
 ```js
 const eduardo = {
   role: "Future full-stack developer",
-  focus: ["React", "Tailwind", "PHP", "C"],
-  currentlyLearning: ["Back-end", "Databases", "Systems programming"],
+  focus: ["Front-end", "React", "Next.js", "TypeScript", "Node.js", "Tailwind"],
+  currentlyLearning: ["Back-end & APIs", "Databases / SQL", "Next.js & TypeScript"],
   philosophy: "Simple code beats clever code",
-  askMeAbout: ["Front-end", "UI details", "Landing pages"],
 };
 ```
 
@@ -38,11 +35,11 @@ const eduardo = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,react,tailwind,html,css,php,c,python&theme=dark" alt="Languages and frameworks" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,html,css,php,c,python&theme=dark" alt="Languages and frameworks" />
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools" />
 <br/><br/>
-<img src="https://img.shields.io/badge/Built%20with-Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+<img src="https://img.shields.io/badge/Uses-Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
 
 </div>
 
@@ -52,12 +49,8 @@ const eduardo = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=oeduardosousa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8957e5" alt="Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oeduardosousa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com/?user=oeduardosousa&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=oeduardosousa&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=8957e5&point=ffffff&area=true" alt="Activity graph" width="100%" />
 
 </div>
 
@@ -65,7 +58,7 @@ const eduardo = {
 
 ## 🤝 Let's talk
 
-Got a project in mind or an improvement to suggest? I'm always happy to chat.
+Want to talk tech, share an idea or suggest an improvement? Feel free to reach out.
 
 <div align="center">
 

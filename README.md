@@ -23,8 +23,8 @@ I like understanding how things work under the hood and solving problems with **
 ```js
 const eduardo = {
   role: "Future full-stack developer",
-  focus: ["Front-end", "React", "Next.js", "TypeScript", "Node.js", "Tailwind"],
-  currentlyLearning: ["Back-end & APIs", "Databases / SQL", "Next.js & TypeScript"],
+  focus: ["Front-end", "React", "Next.js", "TypeScript", "Node.js"],
+  currentlyLearning: ["Back-end & APIs", "Databases / SQL", "Next.js & TypeScript", "Astro"],
   philosophy: "Simple code beats clever code",
 };
 ```

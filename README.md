@@ -16,7 +16,7 @@
 
 ## 👋 About me
 
-I've been curious about technology for a long time. I started learning with **PHP** and **C**, and I'm now focused on the **front-end** with **React**, **Next.js**, **TypeScript** and **Tailwind**, growing step by step into **full-stack** with **Node.js**.
+I've been curious about technology for a long time. I started learning with **PHP** and **C**, and I'm now focused on the **front-end** with **React**, **Next.js** and **TypeScript**, growing step by step into **full-stack** with **Node.js**.
 
 I like understanding how things work under the hood and solving problems with **simple code**, without overcomplicating things.
 
